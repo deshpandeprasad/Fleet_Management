@@ -23,7 +23,7 @@ This project will have 3 types of users:
 1. Customer:
   - Able to create an account and login
   - Reserve cars for pick-up
-  - View book reservation status
+  - View car reservation status
 2. Admin:
   - Able to edit and delete employee and customer accounts
 3. Employee:
