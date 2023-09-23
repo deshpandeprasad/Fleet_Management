@@ -30,3 +30,5 @@ This project will have 3 types of users:
   - Change the status of reservation of customer
   - View customer details and their reservations
   - Add/edit/delete cars
+
+<img width="470" alt="correct-login" src="![fleet](https://github.com/deshpandeprasad/FitnessPlus/assets/113398599/88648d57-1f83-45db-a491-e2e13e31b423)">
