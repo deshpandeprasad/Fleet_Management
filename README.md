@@ -13,7 +13,7 @@
 This is a management system for a car dealership, which allows customers to register themselves to browse available cars and reserve their preferred models. After reserving, customers will need to visit the dealership to finalize the purchase or leasing process. This system also features employee and admin accounts, facilitating the management of car inventory and customer interactions.
 
 ### Technical Stack:
-  - Client Side: HTML, CSS, JSP
+  - Client Side: HTML, CSS, JSP, React
   - Server Side: Spring Boot, Hibernate
   - Database: MySQL
   - Server: Apache Tomcat
